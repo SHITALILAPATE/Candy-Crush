@@ -1,11 +1,11 @@
-# Candy-Crush
-
 # Candy Crush Game
 
 A vanilla JavaScript game inspired by Candy Crush, built for learning purposes.
 
-![Game Screenshot]( ![Screenshot 2024-02-04 110821](https://github.com/SHITALILAPATE/Candy-Crush/assets/130491601/a0277293-ca8a-4d7c-a8fb-bcec22dcc3a1)
-  
+![  ![Screenshot 2024-02-04 110821](https://github.com/SHITALILAPATE/Candy-Crush/assets/130491601/9469095a-2439-4a2a-800a-c1465e4551d5)
+ ](path/to/screenshot.png)
+
+
 ## Features
 
 - Drag and drop elements in JavaScript.
@@ -24,4 +24,5 @@ A vanilla JavaScript game inspired by Candy Crush, built for learning purposes.
   - `appendChild()`
   - `push()`
   - ...and many more.
+
 
