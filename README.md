@@ -2,9 +2,7 @@
 
 A vanilla JavaScript game inspired by Candy Crush, built for learning purposes.
 
-![  ![Screenshot 2024-02-04 110821](https://github.com/SHITALILAPATE/Candy-Crush/assets/130491601/9469095a-2439-4a2a-800a-c1465e4551d5)
- ](path/to/screenshot.png)
-
+![Screenshot](https://github.com/SHITALILAPATE/Candy-Crush/assets/130491601/9469095a-2439-4a2a-800a-c1465e4551d5)
 
 ## Features
 
